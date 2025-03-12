@@ -52,7 +52,7 @@ gestor_tareas = Tareas("tareas.txt")
 
 def menu():
     while True:
-        print("\nMenú de opciones")
+        print("\nMenú de opciones. ")
         print("1. Agregar tarea")
         print("2. Mostrar tareas")
         print("3. Marcar tarea como completada")
